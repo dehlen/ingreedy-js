@@ -130,20 +130,26 @@ quart
 tablespoon
   = 'tablespoons'i
   / 'tablespoon'i
+  / 'Esslöffel'i
   / 'tbsp.'i
   / 'tbsp'i
   / 'tbs.'i
   / 'tbs'i
   / 'T.'
   / 'T'
+  / 'EL'
+  / 'EL.'
 
 teaspoon
   = 'teaspoons'i
   / 'teaspoon'i
+  / 'Teelöffel'i
   / 'tsp.'i
   / 'tsp'i
   / 't.'
   / 't'
+  / 'TL'
+  / 'TL.'
 
 metric_unit
   = gram
